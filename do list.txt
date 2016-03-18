@@ -1,0 +1,21 @@
+Tr/Eng
+1. Session
+-- Privilages
+-- Remember Me
+-- Logout
+2. Staff
+-- Add Question
+-- View Questions
+---- Edit, Delete Questions
+-- View Draft Questions
+---- Edit, Delete Questions
+-- Add to temporary database
+-- Modify Profile
+3. Admin
+-- Create User
+-- View Users
+---- Edit, Delete Users
+-- Check Temporary Database
+---- Add to Permanent
+-- Check Permanent Database
+---- Edit, Delete
