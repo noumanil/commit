@@ -663,7 +663,7 @@
                                     <div class="portlet-body form">
                                         <div class="form-body">
                                             <div class="form-group last">
-                                                <label class="control-label col-md-2">Write a Question</label>
+                                                <label class="control-label col-md-2">Write a Choise</label>
                                                 <div class="col-md-10">
                                                     <div class="note-editing-area">
                                                         <div class="note-handle">

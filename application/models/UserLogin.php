@@ -10,7 +10,7 @@ class UserLogin extends CI_Model {
     }
 
     public function matchUsers($username, $password) {
-        $query = $this->db->query("SELECT usertype, user_id, group_type FROM users where username = '$username' and password='$password'");
+        $query = $this->db->query("SELECT usertype,user_id FROM users where username = '$username' and password='$password'");
         $row = $query->row();
         return $row;
     }

@@ -62,7 +62,6 @@ class Clogin extends CI_Controller {
                 'logged_in' => TRUE,
                 'usertype' => $user->usertype,
                 'user_id' => $user->user_id,
-                'group_type' => $user->group_type
             );
             $this->session->set_userdata($sessData);
             echo 1;
@@ -152,7 +151,6 @@ class Clogin extends CI_Controller {
         $data = array(
             'question' => $question,
             'user_id' => $this->session->userdata('user_id'),
-            'qtype' => $this->session->userdata('group_type')
         );
         if ($this->db->insert('questions', $data) == 1) { // if it is successfull
 
