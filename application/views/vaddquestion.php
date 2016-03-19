@@ -6,10 +6,10 @@
         <meta content="" name="description">
         <meta content="" name="author">
         <!-- BEGIN GLOBAL MANDATORY STYLES --><link href="http://netdna.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.css" rel="stylesheet">
-  <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script> 
-  <script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.js"></script> 
-  <link href="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.1/summernote.css" rel="stylesheet">
-  <script src="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.1/summernote.js"></script>
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script> 
+        <script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.js"></script> 
+        <link href="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.1/summernote.css" rel="stylesheet">
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.1/summernote.js"></script>
         <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&amp;subset=all" rel="stylesheet" type="text/css">
         <link href="/assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
         <link href="/assets/global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css">
@@ -19,7 +19,7 @@
         <!-- BEGIN PAGE LEVEL PLUGINS -->
 
 
-         <link href="/assets/global/plugins/select2/css/select2.min.css" rel="stylesheet" type="text/css" />
+        <link href="/assets/global/plugins/select2/css/select2.min.css" rel="stylesheet" type="text/css" />
         <link href="/assets/global/plugins/select2/css/select2-bootstrap.min.css" rel="stylesheet" type="text/css" />
         <link href="/assets/global/plugins/bootstrap-daterangepicker/daterangepicker.min.css" rel="stylesheet" type="text/css">
         <link href="/assets/global/plugins/morris/morris.css" rel="stylesheet" type="text/css">
@@ -71,88 +71,88 @@
                                 </li>
                                 <li>
                                     <div class="slimScrollDiv" style="position: relative; overflow: hidden; width: auto; height: 250px;"><ul class="dropdown-menu-list scroller" style="height: 250px; overflow: hidden; width: auto;" data-handle-color="#637283" data-initialized="1">
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="time">just now</span>
-                                                <span class="details">
-                                                    <span class="label label-sm label-icon label-success">
-                                                        <i class="fa fa-plus"></i>
-                                                    </span> New user registered. </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="time">3 mins</span>
-                                                <span class="details">
-                                                    <span class="label label-sm label-icon label-danger">
-                                                        <i class="fa fa-bolt"></i>
-                                                    </span> Server #12 overloaded. </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="time">10 mins</span>
-                                                <span class="details">
-                                                    <span class="label label-sm label-icon label-warning">
-                                                        <i class="fa fa-bell-o"></i>
-                                                    </span> Server #2 not responding. </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="time">14 hrs</span>
-                                                <span class="details">
-                                                    <span class="label label-sm label-icon label-info">
-                                                        <i class="fa fa-bullhorn"></i>
-                                                    </span> Application error. </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="time">2 days</span>
-                                                <span class="details">
-                                                    <span class="label label-sm label-icon label-danger">
-                                                        <i class="fa fa-bolt"></i>
-                                                    </span> Database overloaded 68%. </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="time">3 days</span>
-                                                <span class="details">
-                                                    <span class="label label-sm label-icon label-danger">
-                                                        <i class="fa fa-bolt"></i>
-                                                    </span> A user IP blocked. </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="time">4 days</span>
-                                                <span class="details">
-                                                    <span class="label label-sm label-icon label-warning">
-                                                        <i class="fa fa-bell-o"></i>
-                                                    </span> Storage Server #4 not responding dfdfdfd. </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="time">5 days</span>
-                                                <span class="details">
-                                                    <span class="label label-sm label-icon label-info">
-                                                        <i class="fa fa-bullhorn"></i>
-                                                    </span> System Error. </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="time">9 days</span>
-                                                <span class="details">
-                                                    <span class="label label-sm label-icon label-danger">
-                                                        <i class="fa fa-bolt"></i>
-                                                    </span> Storage server failed. </span>
-                                            </a>
-                                        </li>
-                                    </ul><div class="slimScrollBar" style="width: 7px; position: absolute; top: 0px; opacity: 0.4; display: block; border-radius: 7px; z-index: 99; right: 1px; background: rgb(99, 114, 131);"></div><div class="slimScrollRail" style="width: 7px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 7px; opacity: 0.2; z-index: 90; right: 1px; background: rgb(234, 234, 234);"></div></div>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="time">just now</span>
+                                                    <span class="details">
+                                                        <span class="label label-sm label-icon label-success">
+                                                            <i class="fa fa-plus"></i>
+                                                        </span> New user registered. </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="time">3 mins</span>
+                                                    <span class="details">
+                                                        <span class="label label-sm label-icon label-danger">
+                                                            <i class="fa fa-bolt"></i>
+                                                        </span> Server #12 overloaded. </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="time">10 mins</span>
+                                                    <span class="details">
+                                                        <span class="label label-sm label-icon label-warning">
+                                                            <i class="fa fa-bell-o"></i>
+                                                        </span> Server #2 not responding. </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="time">14 hrs</span>
+                                                    <span class="details">
+                                                        <span class="label label-sm label-icon label-info">
+                                                            <i class="fa fa-bullhorn"></i>
+                                                        </span> Application error. </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="time">2 days</span>
+                                                    <span class="details">
+                                                        <span class="label label-sm label-icon label-danger">
+                                                            <i class="fa fa-bolt"></i>
+                                                        </span> Database overloaded 68%. </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="time">3 days</span>
+                                                    <span class="details">
+                                                        <span class="label label-sm label-icon label-danger">
+                                                            <i class="fa fa-bolt"></i>
+                                                        </span> A user IP blocked. </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="time">4 days</span>
+                                                    <span class="details">
+                                                        <span class="label label-sm label-icon label-warning">
+                                                            <i class="fa fa-bell-o"></i>
+                                                        </span> Storage Server #4 not responding dfdfdfd. </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="time">5 days</span>
+                                                    <span class="details">
+                                                        <span class="label label-sm label-icon label-info">
+                                                            <i class="fa fa-bullhorn"></i>
+                                                        </span> System Error. </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="time">9 days</span>
+                                                    <span class="details">
+                                                        <span class="label label-sm label-icon label-danger">
+                                                            <i class="fa fa-bolt"></i>
+                                                        </span> Storage server failed. </span>
+                                                </a>
+                                            </li>
+                                        </ul><div class="slimScrollBar" style="width: 7px; position: absolute; top: 0px; opacity: 0.4; display: block; border-radius: 7px; z-index: 99; right: 1px; background: rgb(99, 114, 131);"></div><div class="slimScrollRail" style="width: 7px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 7px; opacity: 0.2; z-index: 90; right: 1px; background: rgb(234, 234, 234);"></div></div>
                                 </li>
                             </ul>
                         </li>
@@ -172,62 +172,62 @@
                                 </li>
                                 <li>
                                     <div class="slimScrollDiv" style="position: relative; overflow: hidden; width: auto; height: 275px;"><ul class="dropdown-menu-list scroller" style="height: 275px; overflow: hidden; width: auto;" data-handle-color="#637283" data-initialized="1">
-                                        <li>
-                                            <a href="#">
-                                                <span class="photo">
-                                                    <img src="/assets/layouts/layout3/img/avatar2.jpg" class="img-circle" alt=""> </span>
-                                                <span class="subject">
-                                                    <span class="from"> Lisa Wong </span>
-                                                    <span class="time">Just Now </span>
-                                                </span>
-                                                <span class="message"> Vivamus sed auctor nibh congue nibh. auctor nibh auctor nibh... </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <span class="photo">
-                                                    <img src="/assets/layouts/layout3/img/avatar3.jpg" class="img-circle" alt=""> </span>
-                                                <span class="subject">
-                                                    <span class="from"> Richard Doe </span>
-                                                    <span class="time">16 mins </span>
-                                                </span>
-                                                <span class="message"> Vivamus sed congue nibh auctor nibh congue nibh. auctor nibh auctor nibh... </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <span class="photo">
-                                                    <img src="/assets/layouts/layout3/img/avatar1.jpg" class="img-circle" alt=""> </span>
-                                                <span class="subject">
-                                                    <span class="from"> Bob Nilson </span>
-                                                    <span class="time">2 hrs </span>
-                                                </span>
-                                                <span class="message"> Vivamus sed nibh auctor nibh congue nibh. auctor nibh auctor nibh... </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <span class="photo">
-                                                    <img src="/assets/layouts/layout3/img/avatar2.jpg" class="img-circle" alt=""> </span>
-                                                <span class="subject">
-                                                    <span class="from"> Lisa Wong </span>
-                                                    <span class="time">40 mins </span>
-                                                </span>
-                                                <span class="message"> Vivamus sed auctor 40% nibh congue nibh... </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <span class="photo">
-                                                    <img src="/assets/layouts/layout3/img/avatar3.jpg" class="img-circle" alt=""> </span>
-                                                <span class="subject">
-                                                    <span class="from"> Richard Doe </span>
-                                                    <span class="time">46 mins </span>
-                                                </span>
-                                                <span class="message"> Vivamus sed congue nibh auctor nibh congue nibh. auctor nibh auctor nibh... </span>
-                                            </a>
-                                        </li>
-                                    </ul><div class="slimScrollBar" style="width: 7px; position: absolute; top: 0px; opacity: 0.4; display: block; border-radius: 7px; z-index: 99; right: 1px; background: rgb(99, 114, 131);"></div><div class="slimScrollRail" style="width: 7px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 7px; opacity: 0.2; z-index: 90; right: 1px; background: rgb(234, 234, 234);"></div></div>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="photo">
+                                                        <img src="/assets/layouts/layout3/img/avatar2.jpg" class="img-circle" alt=""> </span>
+                                                    <span class="subject">
+                                                        <span class="from"> Lisa Wong </span>
+                                                        <span class="time">Just Now </span>
+                                                    </span>
+                                                    <span class="message"> Vivamus sed auctor nibh congue nibh. auctor nibh auctor nibh... </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="photo">
+                                                        <img src="/assets/layouts/layout3/img/avatar3.jpg" class="img-circle" alt=""> </span>
+                                                    <span class="subject">
+                                                        <span class="from"> Richard Doe </span>
+                                                        <span class="time">16 mins </span>
+                                                    </span>
+                                                    <span class="message"> Vivamus sed congue nibh auctor nibh congue nibh. auctor nibh auctor nibh... </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="photo">
+                                                        <img src="/assets/layouts/layout3/img/avatar1.jpg" class="img-circle" alt=""> </span>
+                                                    <span class="subject">
+                                                        <span class="from"> Bob Nilson </span>
+                                                        <span class="time">2 hrs </span>
+                                                    </span>
+                                                    <span class="message"> Vivamus sed nibh auctor nibh congue nibh. auctor nibh auctor nibh... </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="photo">
+                                                        <img src="/assets/layouts/layout3/img/avatar2.jpg" class="img-circle" alt=""> </span>
+                                                    <span class="subject">
+                                                        <span class="from"> Lisa Wong </span>
+                                                        <span class="time">40 mins </span>
+                                                    </span>
+                                                    <span class="message"> Vivamus sed auctor 40% nibh congue nibh... </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="photo">
+                                                        <img src="/assets/layouts/layout3/img/avatar3.jpg" class="img-circle" alt=""> </span>
+                                                    <span class="subject">
+                                                        <span class="from"> Richard Doe </span>
+                                                        <span class="time">46 mins </span>
+                                                    </span>
+                                                    <span class="message"> Vivamus sed congue nibh auctor nibh congue nibh. auctor nibh auctor nibh... </span>
+                                                </a>
+                                            </li>
+                                        </ul><div class="slimScrollBar" style="width: 7px; position: absolute; top: 0px; opacity: 0.4; display: block; border-radius: 7px; z-index: 99; right: 1px; background: rgb(99, 114, 131);"></div><div class="slimScrollRail" style="width: 7px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 7px; opacity: 0.2; z-index: 90; right: 1px; background: rgb(234, 234, 234);"></div></div>
                                 </li>
                             </ul>
                         </li>
@@ -247,98 +247,98 @@
                                 </li>
                                 <li>
                                     <div class="slimScrollDiv" style="position: relative; overflow: hidden; width: auto; height: 275px;"><ul class="dropdown-menu-list scroller" style="height: 275px; overflow: hidden; width: auto;" data-handle-color="#637283" data-initialized="1">
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="task">
-                                                    <span class="desc">New release v1.2 </span>
-                                                    <span class="percent">30%</span>
-                                                </span>
-                                                <span class="progress">
-                                                    <span style="width: 40%;" class="progress-bar progress-bar-success" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">
-                                                        <span class="sr-only">40% Complete</span>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="task">
+                                                        <span class="desc">New release v1.2 </span>
+                                                        <span class="percent">30%</span>
                                                     </span>
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="task">
-                                                    <span class="desc">Application deployment</span>
-                                                    <span class="percent">65%</span>
-                                                </span>
-                                                <span class="progress">
-                                                    <span style="width: 65%;" class="progress-bar progress-bar-danger" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
-                                                        <span class="sr-only">65% Complete</span>
+                                                    <span class="progress">
+                                                        <span style="width: 40%;" class="progress-bar progress-bar-success" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">
+                                                            <span class="sr-only">40% Complete</span>
+                                                        </span>
                                                     </span>
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="task">
-                                                    <span class="desc">Mobile app release</span>
-                                                    <span class="percent">98%</span>
-                                                </span>
-                                                <span class="progress">
-                                                    <span style="width: 98%;" class="progress-bar progress-bar-success" aria-valuenow="98" aria-valuemin="0" aria-valuemax="100">
-                                                        <span class="sr-only">98% Complete</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="task">
+                                                        <span class="desc">Application deployment</span>
+                                                        <span class="percent">65%</span>
                                                     </span>
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="task">
-                                                    <span class="desc">Database migration</span>
-                                                    <span class="percent">10%</span>
-                                                </span>
-                                                <span class="progress">
-                                                    <span style="width: 10%;" class="progress-bar progress-bar-warning" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">
-                                                        <span class="sr-only">10% Complete</span>
+                                                    <span class="progress">
+                                                        <span style="width: 65%;" class="progress-bar progress-bar-danger" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
+                                                            <span class="sr-only">65% Complete</span>
+                                                        </span>
                                                     </span>
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="task">
-                                                    <span class="desc">Web server upgrade</span>
-                                                    <span class="percent">58%</span>
-                                                </span>
-                                                <span class="progress">
-                                                    <span style="width: 58%;" class="progress-bar progress-bar-info" aria-valuenow="58" aria-valuemin="0" aria-valuemax="100">
-                                                        <span class="sr-only">58% Complete</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="task">
+                                                        <span class="desc">Mobile app release</span>
+                                                        <span class="percent">98%</span>
                                                     </span>
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="task">
-                                                    <span class="desc">Mobile development</span>
-                                                    <span class="percent">85%</span>
-                                                </span>
-                                                <span class="progress">
-                                                    <span style="width: 85%;" class="progress-bar progress-bar-success" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
-                                                        <span class="sr-only">85% Complete</span>
+                                                    <span class="progress">
+                                                        <span style="width: 98%;" class="progress-bar progress-bar-success" aria-valuenow="98" aria-valuemin="0" aria-valuemax="100">
+                                                            <span class="sr-only">98% Complete</span>
+                                                        </span>
                                                     </span>
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="task">
-                                                    <span class="desc">New UI release</span>
-                                                    <span class="percent">38%</span>
-                                                </span>
-                                                <span class="progress progress-striped">
-                                                    <span style="width: 38%;" class="progress-bar progress-bar-important" aria-valuenow="18" aria-valuemin="0" aria-valuemax="100">
-                                                        <span class="sr-only">38% Complete</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="task">
+                                                        <span class="desc">Database migration</span>
+                                                        <span class="percent">10%</span>
                                                     </span>
-                                                </span>
-                                            </a>
-                                        </li>
-                                    </ul><div class="slimScrollBar" style="width: 7px; position: absolute; top: 0px; opacity: 0.4; display: block; border-radius: 7px; z-index: 99; right: 1px; background: rgb(99, 114, 131);"></div><div class="slimScrollRail" style="width: 7px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 7px; opacity: 0.2; z-index: 90; right: 1px; background: rgb(234, 234, 234);"></div></div>
+                                                    <span class="progress">
+                                                        <span style="width: 10%;" class="progress-bar progress-bar-warning" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">
+                                                            <span class="sr-only">10% Complete</span>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="task">
+                                                        <span class="desc">Web server upgrade</span>
+                                                        <span class="percent">58%</span>
+                                                    </span>
+                                                    <span class="progress">
+                                                        <span style="width: 58%;" class="progress-bar progress-bar-info" aria-valuenow="58" aria-valuemin="0" aria-valuemax="100">
+                                                            <span class="sr-only">58% Complete</span>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="task">
+                                                        <span class="desc">Mobile development</span>
+                                                        <span class="percent">85%</span>
+                                                    </span>
+                                                    <span class="progress">
+                                                        <span style="width: 85%;" class="progress-bar progress-bar-success" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
+                                                            <span class="sr-only">85% Complete</span>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="task">
+                                                        <span class="desc">New UI release</span>
+                                                        <span class="percent">38%</span>
+                                                    </span>
+                                                    <span class="progress progress-striped">
+                                                        <span style="width: 38%;" class="progress-bar progress-bar-important" aria-valuenow="18" aria-valuemin="0" aria-valuemax="100">
+                                                            <span class="sr-only">38% Complete</span>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                        </ul><div class="slimScrollBar" style="width: 7px; position: absolute; top: 0px; opacity: 0.4; display: block; border-radius: 7px; z-index: 99; right: 1px; background: rgb(99, 114, 131);"></div><div class="slimScrollRail" style="width: 7px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 7px; opacity: 0.2; z-index: 90; right: 1px; background: rgb(234, 234, 234);"></div></div>
                                 </li>
                             </ul>
                         </li>
@@ -445,10 +445,10 @@
                             <!-- END RESPONSIVE QUICK SEARCH FORM -->
                         </li>
                         <li class="nav-item  ">
-                            <a href="<?=site_url()?>/clogin/vstaffhomepage">
+                            <a href="<?= site_url() ?>/clogin/vstaffhomepage">
                                 <i class="icon-home"></i>
                                 <span class="title">Dashboard</span>
-                                
+
                             </a>
                         </li>
                         <li class="nav-item">
@@ -459,7 +459,7 @@
                             </a>
                             <ul class="sub-menu" style="display: block;">
                                 <li class="nav-item active open">
-                                    <a href="<?=site_url()?>/clogin/add_question">
+                                    <a href="<?= site_url() ?>/clogin/add_question">
                                         <i class="icon-plus"></i>
                                         <span class="title">Add New Question</span>
                                         <span class="selected"></span>
@@ -467,32 +467,32 @@
                                     </a>
                                 </li>
                                 <li class="nav-item  ">
-                                    <a href="<?=site_url()?>/clogin/edit_question">
+                                    <a href="<?= site_url() ?>/clogin/edit_question">
                                         <i class="icon-pencil"></i>
                                         <span class="title">Edit Questions</span>
                                     </a>
                                 </li>
-                                
+
                             </ul>
                         </li>
-                        
-                       
+
+
                         <li class="nav-item  " >
-                            <a href="<?=site_url()?>/clogin/myprofile">
+                            <a href="<?= site_url() ?>/clogin/myprofile">
                                 <i class="icon-user"></i>
                                 <span class="title">My Profile</span>
-                                
+
                             </a>
                         </li>
                         <li class="nav-item  " >
-                            <a href="<?=site_url()?>/clogin/logout">
+                            <a href="<?= site_url() ?>/clogin/logout">
                                 <i class="icon-logout"></i>
                                 <span class="title">Logout</span>
-                                
+
                             </a>
                         </li>
-                        
-                        
+
+
                     </ul>
                     <!-- END SIDEBAR MENU -->
                     <!-- END SIDEBAR MENU -->
@@ -590,20 +590,22 @@
                     <!-- BEGIN PAGE BAR -->
                     <div class="page-bar">
 
-                    	<div class="col-md-3 ">
-                    	
-                                            <label for="select2-single-input-sm" class="control-label">Categories</label>
-                                            
-                                            <select id="select2-single-input-sm" name="category_id" class="form-control input-sm select2-multiple select2-hidden-accessible" tabindex="-1" aria-hidden="true">
-                                                 <?php if (count($categories)) {
-													    foreach ($categories as $list) {
-													        echo "<option value='". $list['category_id'] . "'>" . $list['category_name'] . "</option>";
-													    }
-													}       ?>                                           
-                                               </select> 
-                                        </div>
+                        <div class="col-md-3 ">
 
-                                        	<div class="col-md-12">
+                            <label for="select2-single-input-sm" class="control-label">Categories</label>
+
+                            <select id="select2-single-input-sm" name="category_id" class="form-control input-sm select2-multiple select2-hidden-accessible" tabindex="-1" aria-hidden="true">
+                                <?php
+                                if (count($categories)) {
+                                    foreach ($categories as $list) {
+                                        echo "<option value='" . $list['category_id'] . "'>" . $list['category_name'] . "</option>";
+                                    }
+                                }
+                                ?>                                           
+                            </select> 
+                        </div>
+
+                        <div class="col-md-12">
                             <!-- BEGIN EXTRAS PORTLET-->
                             <div class="portlet light form-fit bordered">
                                 <div class="portlet-title">
@@ -624,259 +626,259 @@
                                     </div>
                                 </div>
                                 <div class="portlet-body form">
-                                        <div class="form-body">
-                                            <div class="form-group last">
-                                                <label class="control-label col-md-2">Write a Question</label>
-                                                <div class="col-md-10">
-                                                	<div class="note-editing-area">
-                                                	<div class="note-handle">
-                                                	<div class="note-control-selection" style="display: none;">
-                                                	<div class="note-control-selection-bg"></div><div class="note-control-holder note-control-nw">
-                                                		
-                                                	</div>
-                                                	<div class="note-control-holder note-control-ne"></div>
-                                                	<div class="note-control-holder note-control-sw"></div><div class="note-control-sizing note-control-se"></div>
-                                                	<div class="note-control-selection-info"></div></div></div><div class="note-popover"><div class="note-link-popover popover bottom in" style="display: none;"><div class="arrow"></div><div class="popover-content"><a href="http://www.google.com" target="_blank">www.google.com</a>&nbsp;&nbsp;<div class="note-insert btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="showLinkDialog" data-hide="true" tabindex="-1" data-original-title="Edit"><i class="fa fa-edit"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="unlink" tabindex="-1" data-original-title="Unlink"><i class="fa fa-unlink"></i></button></div></div></div><div class="note-image-popover popover bottom in" style="display: none;"><div class="arrow"></div><div class="popover-content"><div class="btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="resize" data-value="1" tabindex="-1" data-original-title="Resize Full"><span class="note-fontsize-10">100%</span></button><button type="button" class="btn btn-default btn-sm" title="" data-event="resize" data-value="0.5" tabindex="-1" data-original-title="Resize Half"><span class="note-fontsize-10">50%</span></button><button type="button" class="btn btn-default btn-sm" title="" data-event="resize" data-value="0.25" tabindex="-1" data-original-title="Resize Quarter"><span class="note-fontsize-10">25%</span></button></div><div class="btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="floatMe" data-value="left" tabindex="-1" data-original-title="Float Left"><i class="fa fa-align-left"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="floatMe" data-value="right" tabindex="-1" data-original-title="Float Right"><i class="fa fa-align-right"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="floatMe" data-value="none" tabindex="-1" data-original-title="Float None"><i class="fa fa-align-justify"></i></button></div><br><div class="btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="imageShape" data-value="img-rounded" tabindex="-1" data-original-title="Shape: Rounded"><i class="fa fa-square"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="imageShape" data-value="img-circle" tabindex="-1" data-original-title="Shape: Circle"><i class="fa fa-circle-o"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="imageShape" data-value="img-thumbnail" tabindex="-1" data-original-title="Shape: Thumbnail"><i class="fa fa-picture-o"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="imageShape" tabindex="-1" data-original-title="Shape: None"><i class="fa fa-times"></i></button></div><div class="btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="removeMedia" data-value="none" tabindex="-1" data-original-title="Remove Image"><i class="fa fa-trash-o"></i></button></div></div></div></div>
-                                    <form id="question-form" method="post" class="form-horizontal form-bordered">
+                                    <div class="form-body">
+                                        <div class="form-group last">
+                                            <label class="control-label col-md-2">Write a Question</label>
+                                            <div class="col-md-10">
+                                                <div class="note-editing-area">
+                                                    <div class="note-handle">
+                                                        <div class="note-control-selection" style="display: none;">
+                                                            <div class="note-control-selection-bg"></div><div class="note-control-holder note-control-nw">
 
-                                                	<textarea id="questionSummernote" class="note-codable"></textarea>
-                                            <div class="form-actions">
-                                            <div class="row">
-                                                <div class="col-md-offset-2 col-md-10">
-                    								 <input type="submit" id="addqbutton" class="btn green pull-right"  name="gonder" />  
+                                                            </div>
+                                                            <div class="note-control-holder note-control-ne"></div>
+                                                            <div class="note-control-holder note-control-sw"></div><div class="note-control-sizing note-control-se"></div>
+                                                            <div class="note-control-selection-info"></div></div></div><div class="note-popover"><div class="note-link-popover popover bottom in" style="display: none;"><div class="arrow"></div><div class="popover-content"><a href="http://www.google.com" target="_blank">www.google.com</a>&nbsp;&nbsp;<div class="note-insert btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="showLinkDialog" data-hide="true" tabindex="-1" data-original-title="Edit"><i class="fa fa-edit"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="unlink" tabindex="-1" data-original-title="Unlink"><i class="fa fa-unlink"></i></button></div></div></div><div class="note-image-popover popover bottom in" style="display: none;"><div class="arrow"></div><div class="popover-content"><div class="btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="resize" data-value="1" tabindex="-1" data-original-title="Resize Full"><span class="note-fontsize-10">100%</span></button><button type="button" class="btn btn-default btn-sm" title="" data-event="resize" data-value="0.5" tabindex="-1" data-original-title="Resize Half"><span class="note-fontsize-10">50%</span></button><button type="button" class="btn btn-default btn-sm" title="" data-event="resize" data-value="0.25" tabindex="-1" data-original-title="Resize Quarter"><span class="note-fontsize-10">25%</span></button></div><div class="btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="floatMe" data-value="left" tabindex="-1" data-original-title="Float Left"><i class="fa fa-align-left"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="floatMe" data-value="right" tabindex="-1" data-original-title="Float Right"><i class="fa fa-align-right"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="floatMe" data-value="none" tabindex="-1" data-original-title="Float None"><i class="fa fa-align-justify"></i></button></div><br><div class="btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="imageShape" data-value="img-rounded" tabindex="-1" data-original-title="Shape: Rounded"><i class="fa fa-square"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="imageShape" data-value="img-circle" tabindex="-1" data-original-title="Shape: Circle"><i class="fa fa-circle-o"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="imageShape" data-value="img-thumbnail" tabindex="-1" data-original-title="Shape: Thumbnail"><i class="fa fa-picture-o"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="imageShape" tabindex="-1" data-original-title="Shape: None"><i class="fa fa-times"></i></button></div><div class="btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="removeMedia" data-value="none" tabindex="-1" data-original-title="Remove Image"><i class="fa fa-trash-o"></i></button></div></div></div></div>
+                                                    <form id="question-form" method="post" class="form-horizontal form-bordered">
 
-                                                </div>
-                                            </div>
-                                                	<div class="note-editable panel-body" contenteditable="true" style="height: 263px;"> </div></div>
-                                             
-                                                </div>
+                                                        <textarea id="questionSummernote" class="note-codable"></textarea>
+                                                        <div class="form-actions">
+                                                            <div class="row">
+                                                                <div class="col-md-offset-2 col-md-10">
+                                                                    <input type="submit" id="addqbutton" class="btn green pull-right"  name="gonder" />  
 
-                                            </div>
-                                        </div>
-                                        
-                                    </form>
-                                </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="note-editable panel-body" contenteditable="true" style="height: 263px;"> </div></div>
 
-
-                                   <div class="portlet-body form">
-                                        <div class="form-body">
-                                            <div class="form-group last">
-                                                <label class="control-label col-md-2">Write a Question</label>
-                                                <div class="col-md-10">
-                                                	<div class="note-editing-area">
-                                                	<div class="note-handle">
-                                                	<div class="note-control-selection" style="display: none;">
-                                                	<div class="note-control-selection-bg"></div><div class="note-control-holder note-control-nw">
-                                                		
-                                                	
-                                                	<div class="note-control-holder note-control-ne"></div>
-                                                	<div class="note-control-holder note-control-sw"></div><div class="note-control-sizing note-control-se"></div>
-                                                	<div class="note-control-selection-info"></div></div></div><div class="note-popover"><div class="note-link-popover popover bottom in" style="display: none;"><div class="arrow"></div><div class="popover-content"><a href="http://www.google.com" target="_blank">www.google.com</a>&nbsp;&nbsp;<div class="note-insert btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="showLinkDialog" data-hide="true" tabindex="-1" data-original-title="Edit"><i class="fa fa-edit"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="unlink" tabindex="-1" data-original-title="Unlink"><i class="fa fa-unlink"></i></button></div></div></div><div class="note-image-popover popover bottom in" style="display: none;"><div class="arrow"></div><div class="popover-content"><div class="btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="resize" data-value="1" tabindex="-1" data-original-title="Resize Full"><span class="note-fontsize-10">100%</span></button><button type="button" class="btn btn-default btn-sm" title="" data-event="resize" data-value="0.5" tabindex="-1" data-original-title="Resize Half"><span class="note-fontsize-10">50%</span></button><button type="button" class="btn btn-default btn-sm" title="" data-event="resize" data-value="0.25" tabindex="-1" data-original-title="Resize Quarter"><span class="note-fontsize-10">25%</span></button></div><div class="btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="floatMe" data-value="left" tabindex="-1" data-original-title="Float Left"><i class="fa fa-align-left"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="floatMe" data-value="right" tabindex="-1" data-original-title="Float Right"><i class="fa fa-align-right"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="floatMe" data-value="none" tabindex="-1" data-original-title="Float None"><i class="fa fa-align-justify"></i></button></div><br><div class="btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="imageShape" data-value="img-rounded" tabindex="-1" data-original-title="Shape: Rounded"><i class="fa fa-square"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="imageShape" data-value="img-circle" tabindex="-1" data-original-title="Shape: Circle"><i class="fa fa-circle-o"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="imageShape" data-value="img-thumbnail" tabindex="-1" data-original-title="Shape: Thumbnail"><i class="fa fa-picture-o"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="imageShape" tabindex="-1" data-original-title="Shape: None"><i class="fa fa-times"></i></button></div><div class="btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="removeMedia" data-value="none" tabindex="-1" data-original-title="Remove Image"><i class="fa fa-trash-o"></i></button></div></div></div></div>
-                                    <form id="choice-form" method="post" class="form-horizontal form-bordered">
-
-                                                	<textarea id="choiceSummernote" class="note-codable"></textarea>
-                                            <div class="form-actions">
-                                            <div class="row">
-                                                <div class="col-md-offset-2 col-md-10">
-                    								 <input type="submit" id="addChoiceButton" class="btn green pull-right"  name="Add Choice" />  
-
-                                                </div>
-                                            </div>
-                                                	<div class="note-editable panel-body" contenteditable="true" style="height: 263px;"> </div></div>
-                                             
                                                 </div>
 
                                             </div>
                                         </div>
-                                        
-                                    </form>
+
+                                        </form>
+                                    </div>
+
+
+                                    <div class="portlet-body form">
+                                        <div class="form-body">
+                                            <div class="form-group last">
+                                                <label class="control-label col-md-2">Write a Question</label>
+                                                <div class="col-md-10">
+                                                    <div class="note-editing-area">
+                                                        <div class="note-handle">
+                                                            <div class="note-control-selection" style="display: none;">
+                                                                <div class="note-control-selection-bg"></div><div class="note-control-holder note-control-nw">
+
+
+                                                                    <div class="note-control-holder note-control-ne"></div>
+                                                                    <div class="note-control-holder note-control-sw"></div><div class="note-control-sizing note-control-se"></div>
+                                                                    <div class="note-control-selection-info"></div></div></div><div class="note-popover"><div class="note-link-popover popover bottom in" style="display: none;"><div class="arrow"></div><div class="popover-content"><a href="http://www.google.com" target="_blank">www.google.com</a>&nbsp;&nbsp;<div class="note-insert btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="showLinkDialog" data-hide="true" tabindex="-1" data-original-title="Edit"><i class="fa fa-edit"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="unlink" tabindex="-1" data-original-title="Unlink"><i class="fa fa-unlink"></i></button></div></div></div><div class="note-image-popover popover bottom in" style="display: none;"><div class="arrow"></div><div class="popover-content"><div class="btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="resize" data-value="1" tabindex="-1" data-original-title="Resize Full"><span class="note-fontsize-10">100%</span></button><button type="button" class="btn btn-default btn-sm" title="" data-event="resize" data-value="0.5" tabindex="-1" data-original-title="Resize Half"><span class="note-fontsize-10">50%</span></button><button type="button" class="btn btn-default btn-sm" title="" data-event="resize" data-value="0.25" tabindex="-1" data-original-title="Resize Quarter"><span class="note-fontsize-10">25%</span></button></div><div class="btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="floatMe" data-value="left" tabindex="-1" data-original-title="Float Left"><i class="fa fa-align-left"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="floatMe" data-value="right" tabindex="-1" data-original-title="Float Right"><i class="fa fa-align-right"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="floatMe" data-value="none" tabindex="-1" data-original-title="Float None"><i class="fa fa-align-justify"></i></button></div><br><div class="btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="imageShape" data-value="img-rounded" tabindex="-1" data-original-title="Shape: Rounded"><i class="fa fa-square"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="imageShape" data-value="img-circle" tabindex="-1" data-original-title="Shape: Circle"><i class="fa fa-circle-o"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="imageShape" data-value="img-thumbnail" tabindex="-1" data-original-title="Shape: Thumbnail"><i class="fa fa-picture-o"></i></button><button type="button" class="btn btn-default btn-sm" title="" data-event="imageShape" tabindex="-1" data-original-title="Shape: None"><i class="fa fa-times"></i></button></div><div class="btn-group"><button type="button" class="btn btn-default btn-sm" title="" data-event="removeMedia" data-value="none" tabindex="-1" data-original-title="Remove Image"><i class="fa fa-trash-o"></i></button></div></div></div></div>
+                                                            <form id="choice-form" method="post" class="form-horizontal form-bordered">
+
+                                                                <textarea id="choiceSummernote" class="note-codable"></textarea>
+                                                                <div class="form-actions">
+                                                                    <div class="row">
+                                                                        <div class="col-md-offset-2 col-md-10">
+                                                                            <input type="submit" id="addChoiceButton" class="btn green pull-right"  name="Add Choice" />  
+
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="note-editable panel-body" contenteditable="true" style="height: 263px;"> </div></div>
+
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <script>
+                                    $(document).ready(function () {
+                                        $('#questionSummernote').summernote({
+                                            height: 300, // set editor height
+                                            minHeight: null, // set minimum height of editor
+                                            maxHeight: null, // set maximum height of editor
+                                            focus: true                  // set focus to editable area after initializing summernote
+                                        });
+                                    });
+
+                                    $(document).ready(function () {
+                                        $('#choiceSummernote').summernote({
+                                            height: 300, // set editor height
+                                            minHeight: null, // set minimum height of editor
+                                            maxHeight: null, // set maximum height of editor
+                                            focus: true                  // set focus to editable area after initializing summernote
+                                        });
+                                    });
+
+                                </script>
+
+                                <script>
+                                    $(document).ready(function () {
+
+                                        var questionId = 0;
+
+                                        $("#question-form").submit(function (event) {
+                                            var question = $("#questionSummernote").val();
+                                            event.preventDefault();
+
+                                            if (question) {
+
+                                                var url = "http://localhost/index.php/clogin/add_new_questionJ";
+
+                                                $.ajax({
+                                                    url: url,
+                                                    data: {question: question},
+                                                    type: "POST",
+                                                    success: function (data) {
+                                                        if (data == 0)           
+                                                            alert("Error");
+
+                                                        else {
+                                                            questionId = data;
+
+                                                        }
+                                                    }
+
+
+                                                });
+
+                                            } else
+                                                alert("Please write a question");
+                                        });
+
+
+
+
+
+                                        $("#choice-form").submit(function (event) {
+                                            alert(questionId);
+                                            var choice = $("#choiceSummernote").val();
+                                            event.preventDefault();
+
+                                            if (choice) {
+
+                                                var url = "http://localhost/index.php/clogin/add_new_choiceJ";
+
+                                                $.ajax({
+                                                    url: url,
+                                                    data: {choice: choice, questionId: questionId},
+                                                    type: "POST",
+                                                    success: function (data) {
+
+
+                                                        alert("Choice Added");
+                                                    }
+
+
+                                                });
+
+                                            } else
+                                                alert("Please write a choice");
+                                        });
+                                    });
+
+
+                                </script>									 
+
+
+                            </div>
+
+                            <!-- END PAGE BAR -->
+                            <!-- BEGIN PAGE TITLE-->
+
+                            <!-- END QUICK SIDEBAR -->
+
+                            <!-- END CONTAINER -->
+                            <!-- BEGIN FOOTER -->
+                            <div class="page-footer">
+
+                                <div class="scroll-to-top">
+                                    <i class="icon-arrow-up"></i>
                                 </div>
                             </div>
-                            </div>
-                        </div>
-  
-   <script>
-		   $(document).ready(function() {
-	       $('#questionSummernote').summernote({
+                            <!-- END FOOTER -->
+                            <!--[if lt IE 9]>
+                    <script src="/assets/global/plugins/respond.min.js"></script>
+                    <script src="/assets/global/plugins/excanvas.min.js"></script> 
+                    <![endif]-->
+                            <!-- BEGIN CORE PLUGINS -->
+                            <script async="" src="//www.google-analytics.com/analytics.js"></script>
+                            <script src="/assets/global/plugins/js.cookie.min.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/jquery.blockui.min.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/uniform/jquery.uniform.min.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js" type="text/javascript"></script>
+                            <!-- END CORE PLUGINS -->
+                            <!-- BEGIN PAGE LEVEL PLUGINS -->
+                            <script src="/assets/global/plugins/moment.min.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/bootstrap-daterangepicker/daterangepicker.min.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/morris/morris.min.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/morris/raphael-min.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/counterup/jquery.waypoints.min.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/counterup/jquery.counterup.min.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/amcharts/amcharts/amcharts.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/amcharts/amcharts/serial.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/amcharts/amcharts/pie.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/amcharts/amcharts/radar.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/amcharts/amcharts/themes/light.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/amcharts/amcharts/themes/patterns.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/amcharts/amcharts/themes/chalk.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/amcharts/ammap/ammap.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/amcharts/ammap/maps/js/worldLow.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/amcharts/amstockcharts/amstock.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/fullcalendar/fullcalendar.min.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/flot/jquery.flot.min.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/flot/jquery.flot.resize.min.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/flot/jquery.flot.categories.min.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/jquery-easypiechart/jquery.easypiechart.min.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/jquery.sparkline.min.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/jqvmap/jqvmap/jquery.vmap.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.russia.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.world.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.europe.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.germany.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.usa.js" type="text/javascript"></script>
+                            <script src="/assets/global/plugins/jqvmap/jqvmap/data/jquery.vmap.sampledata.js" type="text/javascript"></script>
+                            <!-- END PAGE LEVEL PLUGINS -->
+                            <!-- BEGIN THEME GLOBAL SCRIPTS -->
+                            <script src="/assets/global/scripts/app.min.js" type="text/javascript"></script>
+                            <!-- END THEME GLOBAL SCRIPTS -->
+                            <!-- BEGIN PAGE LEVEL SCRIPTS -->
+                            <script src="/assets/global/plugins/select2/js/select2.full.min.js" type="text/javascript"></script>
+                            <script src="/assets/pages/scripts/components-select2.min.js" type="text/javascript"></script>
+
+                            <script src="/assets/pages/scripts/dashboard.min.js" type="text/javascript"></script>
+                            <!-- END PAGE LEVEL SCRIPTS -->
+                            <!-- BEGIN THEME LAYOUT SCRIPTS -->
+                            <script src="/assets/layouts/layout/scripts/layout.min.js" type="text/javascript"></script>
+                            <script src="/assets/layouts/layout/scripts/demo.min.js" type="text/javascript"></script>
+                            <script src="/assets/layouts/global/scripts/quick-sidebar.min.js" type="text/javascript"></script>
 
 
-			height: 300,                 // set editor height
-			minHeight: null,             // set minimum height of editor
-			maxHeight: null,             // set maximum height of editor
-			focus: true                  // set focus to editable area after initializing summernote
-		 });
-	    });
-
-		     $(document).ready(function() {
-	       $('#choiceSummernote').summernote({
-
-
-			height: 300,                 // set editor height
-			minHeight: null,             // set minimum height of editor
-			maxHeight: null,             // set maximum height of editor
-			focus: true                  // set focus to editable area after initializing summernote
-		 });
-	    });
-
-	  </script>
-
-	  <script>  
-	  		$( document ).ready(function(){
-    
-    var questionId = 0;
-
-$( "#question-form" ).submit(function(event) {
-	var question = $("#questionSummernote").val();
-	event.preventDefault();
-
-	if(question){
-			
-		 var url = "http://localhost/index.php/clogin/add_new_questionJ";    
-
-            	$.ajax({
-                        url: url,
-                        data:  {question: question},
-                        type: "POST",
-                        success: function(data) {
-                        	if(data==0)           
-                         	 
-							 alert("Error");
-
-                             else {
-                                questionId = data;
-
-                             }								
-						}
-
-
-                    });
-
-            }
-            else
-            	alert("Please write a question");
-   });
- 
- 
-
-	  
-		    
-		$( "#choice-form" ).submit(function(event) {
-            alert(questionId);
-			var choice = $("#choiceSummernote").val();
-			event.preventDefault();
-
-			if(choice){
-					
-				 var url = "http://localhost/index.php/clogin/add_new_choiceJ";    
-
-		            	$.ajax({
-		                        url: url,
-		                        data:  {choice: choice, questionId:questionId},
-		                        type: "POST",
-		                        success: function(data) {
-		                        	           
-		                         	 
-									 alert("Choice Added");								
-								}
-
-
-		                    });
-
-		            }
-		            else
-		            	alert("Please write a choice");
-		   });
-		 });
-
-
-	  </script>									 
-                           
-
-     </div>
-       
-                    <!-- END PAGE BAR -->
-                    <!-- BEGIN PAGE TITLE-->
-                  
-            <!-- END QUICK SIDEBAR -->
-        
-        <!-- END CONTAINER -->
-        <!-- BEGIN FOOTER -->
-        <div class="page-footer">
-            
-            <div class="scroll-to-top">
-                <i class="icon-arrow-up"></i>
-            </div>
-        </div>
-        <!-- END FOOTER -->
-        <!--[if lt IE 9]>
-<script src="/assets/global/plugins/respond.min.js"></script>
-<script src="/assets/global/plugins/excanvas.min.js"></script> 
-<![endif]-->
-        <!-- BEGIN CORE PLUGINS -->
-        <script async="" src="//www.google-analytics.com/analytics.js"></script>
-        <script src="/assets/global/plugins/js.cookie.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jquery.blockui.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/uniform/jquery.uniform.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js" type="text/javascript"></script>
-        <!-- END CORE PLUGINS -->
-        <!-- BEGIN PAGE LEVEL PLUGINS -->
-        <script src="/assets/global/plugins/moment.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/bootstrap-daterangepicker/daterangepicker.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/morris/morris.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/morris/raphael-min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/counterup/jquery.waypoints.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/counterup/jquery.counterup.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/amcharts/amcharts.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/amcharts/serial.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/amcharts/pie.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/amcharts/radar.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/amcharts/themes/light.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/amcharts/themes/patterns.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/amcharts/themes/chalk.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/ammap/ammap.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/ammap/maps/js/worldLow.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/amstockcharts/amstock.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/fullcalendar/fullcalendar.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/flot/jquery.flot.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/flot/jquery.flot.resize.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/flot/jquery.flot.categories.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jquery-easypiechart/jquery.easypiechart.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jquery.sparkline.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jqvmap/jqvmap/jquery.vmap.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.russia.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.world.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.europe.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.germany.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.usa.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jqvmap/jqvmap/data/jquery.vmap.sampledata.js" type="text/javascript"></script>
-        <!-- END PAGE LEVEL PLUGINS -->
-        <!-- BEGIN THEME GLOBAL SCRIPTS -->
-        <script src="/assets/global/scripts/app.min.js" type="text/javascript"></script>
-        <!-- END THEME GLOBAL SCRIPTS -->
-        <!-- BEGIN PAGE LEVEL SCRIPTS -->
-        <script src="/assets/global/plugins/select2/js/select2.full.min.js" type="text/javascript"></script>
-        <script src="/assets/pages/scripts/components-select2.min.js" type="text/javascript"></script>
-      
-        <script src="/assets/pages/scripts/dashboard.min.js" type="text/javascript"></script>
-        <!-- END PAGE LEVEL SCRIPTS -->
-        <!-- BEGIN THEME LAYOUT SCRIPTS -->
-        <script src="/assets/layouts/layout/scripts/layout.min.js" type="text/javascript"></script>
-        <script src="/assets/layouts/layout/scripts/demo.min.js" type="text/javascript"></script>
-        <script src="/assets/layouts/global/scripts/quick-sidebar.min.js" type="text/javascript"></script>
-
-
-        <!-- END THEME LAYOUT SCRIPTS -->
-    <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-37564768-1', 'keenthemes.com');
-  ga('send', 'pageview');
-</script>
+                            <!-- END THEME LAYOUT SCRIPTS -->
+                            <script>
+                                    (function (i, s, o, g, r, a, m) {
+                                        i['GoogleAnalyticsObject'] = r;
+                                        i[r] = i[r] || function () {
+                                            (i[r].q = i[r].q || []).push(arguments)
+                                        }, i[r].l = 1 * new Date();
+                                        a = s.createElement(o),
+                                                m = s.getElementsByTagName(o)[0];
+                                        a.async = 1;
+                                        a.src = g;
+                                        m.parentNode.insertBefore(a, m)
+                                    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                                    ga('create', 'UA-37564768-1', 'keenthemes.com');
+                                    ga('send', 'pageview');
+                            </script>
 
 
 
-<div class="jqvmap-label"></div><div class="jqvmap-label"></div><div class="jqvmap-label"></div><div class="jqvmap-label"></div><div class="jqvmap-label"></div><div class="daterangepicker dropdown-menu opensleft"><div class="calendar left"><div class="daterangepicker_input"><input class="input-mini" type="text" name="daterangepicker_start" value=""><i class="fa fa-calendar"></i><div class="calendar-time" style="display: none;"><div></div><i class="fa fa-clock-o"></i></div></div><div class="calendar-table"></div></div><div class="calendar right"><div class="daterangepicker_input"><input class="input-mini" type="text" name="daterangepicker_end" value=""><i class="fa fa-calendar"></i><div class="calendar-time" style="display: none;"><div></div><i class="fa fa-clock-o"></i></div></div><div class="calendar-table"></div></div><div class="ranges"><ul><li>Today</li><li>Yesterday</li><li>Last 7 Days</li><li>Last 30 Days</li><li>This Month</li><li>Last Month</li><li>Custom</li></ul><div class="range_inputs"><button class="applyBtn btn btn-sm btn-success" disabled="disabled" type="button">Apply</button> <button class="cancelBtn btn btn-sm btn-default" type="button">Cancel</button></div></div></div></body></html>
+                            <div class="jqvmap-label"></div><div class="jqvmap-label"></div><div class="jqvmap-label"></div><div class="jqvmap-label"></div><div class="jqvmap-label"></div><div class="daterangepicker dropdown-menu opensleft"><div class="calendar left"><div class="daterangepicker_input"><input class="input-mini" type="text" name="daterangepicker_start" value=""><i class="fa fa-calendar"></i><div class="calendar-time" style="display: none;"><div></div><i class="fa fa-clock-o"></i></div></div><div class="calendar-table"></div></div><div class="calendar right"><div class="daterangepicker_input"><input class="input-mini" type="text" name="daterangepicker_end" value=""><i class="fa fa-calendar"></i><div class="calendar-time" style="display: none;"><div></div><i class="fa fa-clock-o"></i></div></div><div class="calendar-table"></div></div><div class="ranges"><ul><li>Today</li><li>Yesterday</li><li>Last 7 Days</li><li>Last 30 Days</li><li>This Month</li><li>Last Month</li><li>Custom</li></ul><div class="range_inputs"><button class="applyBtn btn btn-sm btn-success" disabled="disabled" type="button">Apply</button> <button class="cancelBtn btn btn-sm btn-default" type="button">Cancel</button></div></div></div></body></html>
