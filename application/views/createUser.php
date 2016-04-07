@@ -64,88 +64,88 @@
                                 </li>
                                 <li>
                                     <div class="slimScrollDiv" style="position: relative; overflow: hidden; width: auto; height: 250px;"><ul class="dropdown-menu-list scroller" style="height: 250px; overflow: hidden; width: auto;" data-handle-color="#637283" data-initialized="1">
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="time">just now</span>
-                                                <span class="details">
-                                                    <span class="label label-sm label-icon label-success">
-                                                        <i class="fa fa-plus"></i>
-                                                    </span> New user registered. </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="time">3 mins</span>
-                                                <span class="details">
-                                                    <span class="label label-sm label-icon label-danger">
-                                                        <i class="fa fa-bolt"></i>
-                                                    </span> Server #12 overloaded. </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="time">10 mins</span>
-                                                <span class="details">
-                                                    <span class="label label-sm label-icon label-warning">
-                                                        <i class="fa fa-bell-o"></i>
-                                                    </span> Server #2 not responding. </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="time">14 hrs</span>
-                                                <span class="details">
-                                                    <span class="label label-sm label-icon label-info">
-                                                        <i class="fa fa-bullhorn"></i>
-                                                    </span> Application error. </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="time">2 days</span>
-                                                <span class="details">
-                                                    <span class="label label-sm label-icon label-danger">
-                                                        <i class="fa fa-bolt"></i>
-                                                    </span> Database overloaded 68%. </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="time">3 days</span>
-                                                <span class="details">
-                                                    <span class="label label-sm label-icon label-danger">
-                                                        <i class="fa fa-bolt"></i>
-                                                    </span> A user IP blocked. </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="time">4 days</span>
-                                                <span class="details">
-                                                    <span class="label label-sm label-icon label-warning">
-                                                        <i class="fa fa-bell-o"></i>
-                                                    </span> Storage Server #4 not responding dfdfdfd. </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="time">5 days</span>
-                                                <span class="details">
-                                                    <span class="label label-sm label-icon label-info">
-                                                        <i class="fa fa-bullhorn"></i>
-                                                    </span> System Error. </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="time">9 days</span>
-                                                <span class="details">
-                                                    <span class="label label-sm label-icon label-danger">
-                                                        <i class="fa fa-bolt"></i>
-                                                    </span> Storage server failed. </span>
-                                            </a>
-                                        </li>
-                                    </ul><div class="slimScrollBar" style="width: 7px; position: absolute; top: 0px; opacity: 0.4; display: block; border-radius: 7px; z-index: 99; right: 1px; background: rgb(99, 114, 131);"></div><div class="slimScrollRail" style="width: 7px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 7px; opacity: 0.2; z-index: 90; right: 1px; background: rgb(234, 234, 234);"></div></div>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="time">just now</span>
+                                                    <span class="details">
+                                                        <span class="label label-sm label-icon label-success">
+                                                            <i class="fa fa-plus"></i>
+                                                        </span> New user registered. </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="time">3 mins</span>
+                                                    <span class="details">
+                                                        <span class="label label-sm label-icon label-danger">
+                                                            <i class="fa fa-bolt"></i>
+                                                        </span> Server #12 overloaded. </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="time">10 mins</span>
+                                                    <span class="details">
+                                                        <span class="label label-sm label-icon label-warning">
+                                                            <i class="fa fa-bell-o"></i>
+                                                        </span> Server #2 not responding. </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="time">14 hrs</span>
+                                                    <span class="details">
+                                                        <span class="label label-sm label-icon label-info">
+                                                            <i class="fa fa-bullhorn"></i>
+                                                        </span> Application error. </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="time">2 days</span>
+                                                    <span class="details">
+                                                        <span class="label label-sm label-icon label-danger">
+                                                            <i class="fa fa-bolt"></i>
+                                                        </span> Database overloaded 68%. </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="time">3 days</span>
+                                                    <span class="details">
+                                                        <span class="label label-sm label-icon label-danger">
+                                                            <i class="fa fa-bolt"></i>
+                                                        </span> A user IP blocked. </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="time">4 days</span>
+                                                    <span class="details">
+                                                        <span class="label label-sm label-icon label-warning">
+                                                            <i class="fa fa-bell-o"></i>
+                                                        </span> Storage Server #4 not responding dfdfdfd. </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="time">5 days</span>
+                                                    <span class="details">
+                                                        <span class="label label-sm label-icon label-info">
+                                                            <i class="fa fa-bullhorn"></i>
+                                                        </span> System Error. </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="time">9 days</span>
+                                                    <span class="details">
+                                                        <span class="label label-sm label-icon label-danger">
+                                                            <i class="fa fa-bolt"></i>
+                                                        </span> Storage server failed. </span>
+                                                </a>
+                                            </li>
+                                        </ul><div class="slimScrollBar" style="width: 7px; position: absolute; top: 0px; opacity: 0.4; display: block; border-radius: 7px; z-index: 99; right: 1px; background: rgb(99, 114, 131);"></div><div class="slimScrollRail" style="width: 7px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 7px; opacity: 0.2; z-index: 90; right: 1px; background: rgb(234, 234, 234);"></div></div>
                                 </li>
                             </ul>
                         </li>
@@ -165,62 +165,62 @@
                                 </li>
                                 <li>
                                     <div class="slimScrollDiv" style="position: relative; overflow: hidden; width: auto; height: 275px;"><ul class="dropdown-menu-list scroller" style="height: 275px; overflow: hidden; width: auto;" data-handle-color="#637283" data-initialized="1">
-                                        <li>
-                                            <a href="#">
-                                                <span class="photo">
-                                                    <img src="/assets/layouts/layout3/img/avatar2.jpg" class="img-circle" alt=""> </span>
-                                                <span class="subject">
-                                                    <span class="from"> Lisa Wong </span>
-                                                    <span class="time">Just Now </span>
-                                                </span>
-                                                <span class="message"> Vivamus sed auctor nibh congue nibh. auctor nibh auctor nibh... </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <span class="photo">
-                                                    <img src="/assets/layouts/layout3/img/avatar3.jpg" class="img-circle" alt=""> </span>
-                                                <span class="subject">
-                                                    <span class="from"> Richard Doe </span>
-                                                    <span class="time">16 mins </span>
-                                                </span>
-                                                <span class="message"> Vivamus sed congue nibh auctor nibh congue nibh. auctor nibh auctor nibh... </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <span class="photo">
-                                                    <img src="/assets/layouts/layout3/img/avatar1.jpg" class="img-circle" alt=""> </span>
-                                                <span class="subject">
-                                                    <span class="from"> Bob Nilson </span>
-                                                    <span class="time">2 hrs </span>
-                                                </span>
-                                                <span class="message"> Vivamus sed nibh auctor nibh congue nibh. auctor nibh auctor nibh... </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <span class="photo">
-                                                    <img src="/assets/layouts/layout3/img/avatar2.jpg" class="img-circle" alt=""> </span>
-                                                <span class="subject">
-                                                    <span class="from"> Lisa Wong </span>
-                                                    <span class="time">40 mins </span>
-                                                </span>
-                                                <span class="message"> Vivamus sed auctor 40% nibh congue nibh... </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <span class="photo">
-                                                    <img src="/assets/layouts/layout3/img/avatar3.jpg" class="img-circle" alt=""> </span>
-                                                <span class="subject">
-                                                    <span class="from"> Richard Doe </span>
-                                                    <span class="time">46 mins </span>
-                                                </span>
-                                                <span class="message"> Vivamus sed congue nibh auctor nibh congue nibh. auctor nibh auctor nibh... </span>
-                                            </a>
-                                        </li>
-                                    </ul><div class="slimScrollBar" style="width: 7px; position: absolute; top: 0px; opacity: 0.4; display: block; border-radius: 7px; z-index: 99; right: 1px; background: rgb(99, 114, 131);"></div><div class="slimScrollRail" style="width: 7px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 7px; opacity: 0.2; z-index: 90; right: 1px; background: rgb(234, 234, 234);"></div></div>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="photo">
+                                                        <img src="/assets/layouts/layout3/img/avatar2.jpg" class="img-circle" alt=""> </span>
+                                                    <span class="subject">
+                                                        <span class="from"> Lisa Wong </span>
+                                                        <span class="time">Just Now </span>
+                                                    </span>
+                                                    <span class="message"> Vivamus sed auctor nibh congue nibh. auctor nibh auctor nibh... </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="photo">
+                                                        <img src="/assets/layouts/layout3/img/avatar3.jpg" class="img-circle" alt=""> </span>
+                                                    <span class="subject">
+                                                        <span class="from"> Richard Doe </span>
+                                                        <span class="time">16 mins </span>
+                                                    </span>
+                                                    <span class="message"> Vivamus sed congue nibh auctor nibh congue nibh. auctor nibh auctor nibh... </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="photo">
+                                                        <img src="/assets/layouts/layout3/img/avatar1.jpg" class="img-circle" alt=""> </span>
+                                                    <span class="subject">
+                                                        <span class="from"> Bob Nilson </span>
+                                                        <span class="time">2 hrs </span>
+                                                    </span>
+                                                    <span class="message"> Vivamus sed nibh auctor nibh congue nibh. auctor nibh auctor nibh... </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="photo">
+                                                        <img src="/assets/layouts/layout3/img/avatar2.jpg" class="img-circle" alt=""> </span>
+                                                    <span class="subject">
+                                                        <span class="from"> Lisa Wong </span>
+                                                        <span class="time">40 mins </span>
+                                                    </span>
+                                                    <span class="message"> Vivamus sed auctor 40% nibh congue nibh... </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="photo">
+                                                        <img src="/assets/layouts/layout3/img/avatar3.jpg" class="img-circle" alt=""> </span>
+                                                    <span class="subject">
+                                                        <span class="from"> Richard Doe </span>
+                                                        <span class="time">46 mins </span>
+                                                    </span>
+                                                    <span class="message"> Vivamus sed congue nibh auctor nibh congue nibh. auctor nibh auctor nibh... </span>
+                                                </a>
+                                            </li>
+                                        </ul><div class="slimScrollBar" style="width: 7px; position: absolute; top: 0px; opacity: 0.4; display: block; border-radius: 7px; z-index: 99; right: 1px; background: rgb(99, 114, 131);"></div><div class="slimScrollRail" style="width: 7px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 7px; opacity: 0.2; z-index: 90; right: 1px; background: rgb(234, 234, 234);"></div></div>
                                 </li>
                             </ul>
                         </li>
@@ -240,98 +240,98 @@
                                 </li>
                                 <li>
                                     <div class="slimScrollDiv" style="position: relative; overflow: hidden; width: auto; height: 275px;"><ul class="dropdown-menu-list scroller" style="height: 275px; overflow: hidden; width: auto;" data-handle-color="#637283" data-initialized="1">
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="task">
-                                                    <span class="desc">New release v1.2 </span>
-                                                    <span class="percent">30%</span>
-                                                </span>
-                                                <span class="progress">
-                                                    <span style="width: 40%;" class="progress-bar progress-bar-success" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">
-                                                        <span class="sr-only">40% Complete</span>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="task">
+                                                        <span class="desc">New release v1.2 </span>
+                                                        <span class="percent">30%</span>
                                                     </span>
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="task">
-                                                    <span class="desc">Application deployment</span>
-                                                    <span class="percent">65%</span>
-                                                </span>
-                                                <span class="progress">
-                                                    <span style="width: 65%;" class="progress-bar progress-bar-danger" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
-                                                        <span class="sr-only">65% Complete</span>
+                                                    <span class="progress">
+                                                        <span style="width: 40%;" class="progress-bar progress-bar-success" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">
+                                                            <span class="sr-only">40% Complete</span>
+                                                        </span>
                                                     </span>
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="task">
-                                                    <span class="desc">Mobile app release</span>
-                                                    <span class="percent">98%</span>
-                                                </span>
-                                                <span class="progress">
-                                                    <span style="width: 98%;" class="progress-bar progress-bar-success" aria-valuenow="98" aria-valuemin="0" aria-valuemax="100">
-                                                        <span class="sr-only">98% Complete</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="task">
+                                                        <span class="desc">Application deployment</span>
+                                                        <span class="percent">65%</span>
                                                     </span>
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="task">
-                                                    <span class="desc">Database migration</span>
-                                                    <span class="percent">10%</span>
-                                                </span>
-                                                <span class="progress">
-                                                    <span style="width: 10%;" class="progress-bar progress-bar-warning" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">
-                                                        <span class="sr-only">10% Complete</span>
+                                                    <span class="progress">
+                                                        <span style="width: 65%;" class="progress-bar progress-bar-danger" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
+                                                            <span class="sr-only">65% Complete</span>
+                                                        </span>
                                                     </span>
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="task">
-                                                    <span class="desc">Web server upgrade</span>
-                                                    <span class="percent">58%</span>
-                                                </span>
-                                                <span class="progress">
-                                                    <span style="width: 58%;" class="progress-bar progress-bar-info" aria-valuenow="58" aria-valuemin="0" aria-valuemax="100">
-                                                        <span class="sr-only">58% Complete</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="task">
+                                                        <span class="desc">Mobile app release</span>
+                                                        <span class="percent">98%</span>
                                                     </span>
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="task">
-                                                    <span class="desc">Mobile development</span>
-                                                    <span class="percent">85%</span>
-                                                </span>
-                                                <span class="progress">
-                                                    <span style="width: 85%;" class="progress-bar progress-bar-success" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
-                                                        <span class="sr-only">85% Complete</span>
+                                                    <span class="progress">
+                                                        <span style="width: 98%;" class="progress-bar progress-bar-success" aria-valuenow="98" aria-valuemin="0" aria-valuemax="100">
+                                                            <span class="sr-only">98% Complete</span>
+                                                        </span>
                                                     </span>
-                                                </span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:;">
-                                                <span class="task">
-                                                    <span class="desc">New UI release</span>
-                                                    <span class="percent">38%</span>
-                                                </span>
-                                                <span class="progress progress-striped">
-                                                    <span style="width: 38%;" class="progress-bar progress-bar-important" aria-valuenow="18" aria-valuemin="0" aria-valuemax="100">
-                                                        <span class="sr-only">38% Complete</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="task">
+                                                        <span class="desc">Database migration</span>
+                                                        <span class="percent">10%</span>
                                                     </span>
-                                                </span>
-                                            </a>
-                                        </li>
-                                    </ul><div class="slimScrollBar" style="width: 7px; position: absolute; top: 0px; opacity: 0.4; display: block; border-radius: 7px; z-index: 99; right: 1px; background: rgb(99, 114, 131);"></div><div class="slimScrollRail" style="width: 7px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 7px; opacity: 0.2; z-index: 90; right: 1px; background: rgb(234, 234, 234);"></div></div>
+                                                    <span class="progress">
+                                                        <span style="width: 10%;" class="progress-bar progress-bar-warning" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">
+                                                            <span class="sr-only">10% Complete</span>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="task">
+                                                        <span class="desc">Web server upgrade</span>
+                                                        <span class="percent">58%</span>
+                                                    </span>
+                                                    <span class="progress">
+                                                        <span style="width: 58%;" class="progress-bar progress-bar-info" aria-valuenow="58" aria-valuemin="0" aria-valuemax="100">
+                                                            <span class="sr-only">58% Complete</span>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="task">
+                                                        <span class="desc">Mobile development</span>
+                                                        <span class="percent">85%</span>
+                                                    </span>
+                                                    <span class="progress">
+                                                        <span style="width: 85%;" class="progress-bar progress-bar-success" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
+                                                            <span class="sr-only">85% Complete</span>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;">
+                                                    <span class="task">
+                                                        <span class="desc">New UI release</span>
+                                                        <span class="percent">38%</span>
+                                                    </span>
+                                                    <span class="progress progress-striped">
+                                                        <span style="width: 38%;" class="progress-bar progress-bar-important" aria-valuenow="18" aria-valuemin="0" aria-valuemax="100">
+                                                            <span class="sr-only">38% Complete</span>
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                        </ul><div class="slimScrollBar" style="width: 7px; position: absolute; top: 0px; opacity: 0.4; display: block; border-radius: 7px; z-index: 99; right: 1px; background: rgb(99, 114, 131);"></div><div class="slimScrollRail" style="width: 7px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 7px; opacity: 0.2; z-index: 90; right: 1px; background: rgb(234, 234, 234);"></div></div>
                                 </li>
                             </ul>
                         </li>
@@ -438,10 +438,10 @@
                             <!-- END RESPONSIVE QUICK SEARCH FORM -->
                         </li>
                         <li class="nav-item  ">
-                            <a href="<?=site_url()?>/vadminhomepage">
+                            <a href="<?= site_url() ?>/vadminhomepage">
                                 <i class="icon-home"></i>
                                 <span class="title">Dashboard</span>
-                                
+
                             </a>
                         </li>
                         <li class="nav-item">
@@ -452,51 +452,51 @@
                             </a>
                             <ul class="sub-menu" style="display: block;">
                                 <li class="nav-item active ">
-                                    <a href="<?=site_url()?>/createUser">
+                                    <a href="<?= site_url() ?>/createUser">
                                         <i class="icon-user"></i>
                                         <span class="title">Create New User</span>
                                         <span class="selected"></span>
                                     </a>
                                 </li>
                                 <li class="nav-item  ">
-                                    <a href="<?=site_url()?>/usersInfo">
+                                    <a href="<?= site_url() ?>/usersInfo">
                                         <i class="icon-users"></i>
                                         <span class="title">Edit or Delete User Information</span>
                                     </a>
                                 </li>
-                                
+
                             </ul>
                         </li>
-                         <li class="nav-item  ">
-                            <a href="<?=site_url()?>/password">
+                        <li class="nav-item  ">
+                            <a href="<?= site_url() ?>/password">
                                 <i class="icon-settings"></i>
                                 <span class="title">Change Password</span>
-                                
+
                             </a>
                         </li>
                         <li class="nav-item  ">
-                            <a href="<?=site_url()?>/temporary">
+                            <a href="<?= site_url() ?>/temporary">
                                 <i class="icon-paper-clip"></i>
                                 <span class="title">Temporary Database</span>
-                                
+
                             </a>
                         </li>
                         <li class="nav-item  " >
-                            <a href="<?=site_url()?>/permanent">
+                            <a href="<?= site_url() ?>/permanent">
                                 <i class="icon-calendar"></i>
                                 <span class="title">Permanent Database</span>
-                                
+
                             </a>
                         </li>
                         <li class="nav-item  " >
-                            <a href="<?=site_url()?>logout">
+                            <a href="<?= site_url() ?>logout">
                                 <i class="icon-logout"></i>
                                 <span class="title">Logout</span>
-                                
+
                             </a>
                         </li>
-                        
-                        
+
+
                     </ul>
                     <!-- END SIDEBAR MENU -->
                     <!-- END SIDEBAR MENU -->
@@ -593,226 +593,233 @@
                     <!-- END THEME PANEL -->
                     <!-- BEGIN PAGE BAR -->
                     <div class="page-bar">
-        <div class="col-md-7">
-                <section class="widget">
-                    <header>
-                        <h4><i class="fa fa-user"></i>Create New user</h4>
-                    </header>
-                    <div class="body">
-                        <form id="user-form" class="form-horizontal form-label-left" novalidate="" method="post" data-parsley-priority-enabled="false" data-parsley-excluded="input[name=gender]">
-                            
-                            
-                            <fieldset>
-                                <legend class="section">Personal Info</legend>
-                                <div class="form-group">
-                                    <label class="control-label col-sm-4" for="prefix">Prefix</label>
-                                    <div class="col-sm-4"><input type="text" id="prefix" name="prefix" class="form-control input-transparent" data-parsley-id="22"></div>
-                                </div>
-                                <div class="form-group">
-                                    <label class="control-label col-sm-4" for="first-name">First Name <span class="required">*</span></label>
-                                    <div class="col-sm-8"><input type="text" id="first-name" name="first-name" required="required" class="form-control input-transparent" data-parsley-id="24"></div>
-                                </div>
-                                <div class="form-group">
-                                    <label class="control-label col-sm-4" for="last-name">Last Name <span class="required">*</span></label>
-                                    <div class="col-sm-8"><input type="text" id="last-name" name="last-name" required="required" class="form-control input-transparent" data-parsley-id="26"></div>
-                                </div>
-                                <div class="form-group">
-                                    <label for="middle-name" class="control-label col-sm-4">Middle Name / Initial</label>
-                                    <div class="col-sm-8"><input id="middle-name" class="form-control input-transparent" type="text" name="middle-name" value="" data-parsley-id="28"></div>
-                                </div>
-                                <div class="form-group">
-                                    <label class="control-label col-sm-4">Gender</label>
-                                    <div class="col-sm-8">
-                                        <div id="gender" class="btn-group" data-toggle="buttons">
-                                            <label class="btn btn-default" data-toggle-class="btn-primary" data-toggle-passive-class="btn-default">
-                                                <input type="radio" name="gender" value="male"> &nbsp; Male &nbsp;
-                                            </label>
-                                            <label class="btn btn-primary active" data-toggle-class="btn-primary" data-toggle-passive-class="btn-default">
-                                                <input type="radio" name="gender" value="female" checked=""> Female
-                                            </label>
+                        <div class="col-md-7">
+                            <section class="widget">
+                                <header>
+                                    <h4><i class="fa fa-user"></i>Create New user</h4>
+                                </header>
+                                <div class="body">
+                                    <form id="user-form" class="form-horizontal form-label-left" novalidate="" method="post" data-parsley-priority-enabled="false" data-parsley-excluded="input[name=gender]">
+
+
+                                        <fieldset>
+                                            <legend class="section">Personal Info</legend>
+                                            <div class="form-group">
+                                                <label class="control-label col-sm-4" for="prefix">Prefix</label>
+                                                <div class="col-sm-4"><input type="text" id="prefix" name="prefix" class="form-control input-transparent" data-parsley-id="22"></div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="control-label col-sm-4" for="first-name">First Name <span class="required">*</span></label>
+                                                <div class="col-sm-8"><input type="text" id="first-name" name="first-name" required="required" class="form-control input-transparent" data-parsley-id="24"></div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="control-label col-sm-4" for="last-name">Last Name <span class="required">*</span></label>
+                                                <div class="col-sm-8"><input type="text" id="last-name" name="last-name" required="required" class="form-control input-transparent" data-parsley-id="26"></div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="middle-name" class="control-label col-sm-4">Middle Name / Initial</label>
+                                                <div class="col-sm-8"><input id="middle-name" class="form-control input-transparent" type="text" name="middle-name" value="" data-parsley-id="28"></div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="control-label col-sm-4">Gender</label>
+                                                <div class="col-sm-8">
+                                                    <div id="gender" class="btn-group" data-toggle="buttons">
+                                                        <label class="btn btn-default" data-toggle-class="btn-primary" data-toggle-passive-class="btn-default">
+                                                            <input type="radio" name="gender" value="male"> &nbsp; Male &nbsp;
+                                                        </label>
+                                                        <label class="btn btn-primary active" data-toggle-class="btn-primary" data-toggle-passive-class="btn-default">
+                                                            <input type="radio" name="gender" value="female" checked=""> Female
+                                                        </label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="date-of-birth" class="control-label col-sm-4">Date Of Birth <span class="required">*</span></label>
+                                                <div class="col-sm-6"><input id="date-of-birth" class="date-picker form-control input-transparent" required="required" type="text" name="date-of-birth" value="" data-parsley-id="30"></div>
+                                            </div>
+                                        </fieldset>
+                                        <fieldset>
+                                            <legend class="section">Contact Info</legend>
+                                            <div class="form-group">
+                                                <label id="email-label" for="email" class="control-label col-sm-4">Email <span class="required">*</span></label>
+                                                <div class="col-xs-12 col-sm-6">
+                                                    <div class="input-group">
+                                                        <input id="email" type="email" data-trigger="change" required="required" class="form-control input-transparent" name="email" data-parsley-id="32">
+                                                        <span class="input-group-btn">
+                                                            <button class="btn btn-success" type="button">Write an email</button>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="phone" class="control-label col-sm-4">Phone <span class="required">*</span></label>
+                                                <div class="col-xs-12 col-sm-6">
+                                                    <div class="input-group">
+                                                        <input id="phone" class="form-control input-transparent  mask" required="required" type="text" name="phone" maxlength="28" data-parsley-id="34">
+                                                        <span class="input-group-btn">
+                                                            <select id="phone-type" class="selectpicker bs-select-hidden" data-style="btn-default" data-width="auto" data-parsley-id="36">
+                                                                <option>Mobile</option>
+                                                                <option>Home</option>
+                                                                <option>Work</option>
+                                                            </select><div class="btn-group bootstrap-select" style="width: 82px;"><button type="button" class="btn dropdown-toggle btn-default" data-toggle="dropdown" data-id="phone-type" title="Mobile"><span class="filter-option pull-left">Mobile</span>&nbsp;<span class="caret"></span></button><div class="dropdown-menu open" style="min-width: 0px;"><ul class="dropdown-menu inner" role="menu"><li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Mobile</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="1"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Home</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Work</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div></div>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="fax" class="control-label col-sm-4">Fax</label>
+                                                <div class="col-xs-12 col-sm-6">
+                                                    <div class="input-group">
+                                                        <input id="fax" class="form-control input-transparent" type="text" name="phone" maxlength="28" data-parsley-id="38">
+                                                        <span class="input-group-btn">
+                                                            <select id="fax-type" class="selectpicker bs-select-hidden" data-style="btn-default" data-width="auto" data-parsley-id="40">
+                                                                <option>Mobile</option>
+                                                                <option>Home</option>
+                                                                <option>Work</option>
+                                                            </select><div class="btn-group bootstrap-select" style="width: 82px;"><button type="button" class="btn dropdown-toggle btn-default" data-toggle="dropdown" data-id="fax-type" title="Mobile"><span class="filter-option pull-left">Mobile</span>&nbsp;<span class="caret"></span></button><div class="dropdown-menu open" style="min-width: 0px;"><ul class="dropdown-menu inner" role="menu"><li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Mobile</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="1"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Home</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Work</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div></div>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </fieldset>
+                                        <fieldset>
+                                            <legend class="section">
+                                                Address
+                                                <button type="button" class="btn btn-transparent btn-xs pull-right">
+                                                    <i class="fa fa-plus"></i>
+                                                    Add Address
+                                                </button>
+                                            </legend>
+                                            <div class="form-group">
+                                                <label for="address" class="control-label col-sm-4">Address <span class="required">*</span></label>
+                                                <div class="col-xs-12 col-sm-6">
+                                                    <div class="input-group">
+                                                        <input id="address" class="form-control input-transparent" type="text" name="address" data-parsley-id="42">
+                                                        <span class="input-group-btn">
+                                                            <select id="address-type" class="selectpicker bs-select-hidden" data-style="btn-default" data-width="auto" data-parsley-id="44">
+                                                                <option>Mobile</option>
+                                                                <option>Home</option>
+                                                                <option>Work</option>
+                                                            </select><div class="btn-group bootstrap-select" style="width: 82px;"><button type="button" class="btn dropdown-toggle btn-default" data-toggle="dropdown" data-id="address-type" title="Mobile"><span class="filter-option pull-left">Mobile</span>&nbsp;<span class="caret"></span></button><div class="dropdown-menu open" style="min-width: 0px;"><ul class="dropdown-menu inner" role="menu"><li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Mobile</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="1"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Home</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Work</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div></div>
+                                                        </span>
+                                                    </div>
+                                                    <input id="address-2" class="form-control input-transparent mt-sm" type="text" value="" name="address-2" data-parsley-id="46">
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="city" class="control-label col-sm-4">City <span class="required">*</span></label>
+                                                <div class="col-xs-12 col-sm-6"><input id="city" class="form-control input-transparent" required="required" type="text" value="" name="city" data-parsley-id="48"></div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="city" class="control-label col-sm-4">State <span class="required">*</span></label>
+                                                <div class="col-xs-12 col-sm-6"><input id="city" class="form-control input-transparent" required="required" type="text" value="" name="city" data-parsley-id="48"></div>
+                                            </div>
+
+
+                                        </fieldset>
+                                        <div class="form-actions">
+                                            <div class="row">
+                                                <div class="col-sm-8 col-sm-offset-4">
+                                                    <button type="submit" class="btn btn-primary">Validate &amp; Submit</button>
+                                                    <button type="button" class="btn btn-default">Cancel</button>
+                                                </div>
+                                            </div>
                                         </div>
-                                    </div>
+                                    </form>
                                 </div>
-                                <div class="form-group">
-                                    <label for="date-of-birth" class="control-label col-sm-4">Date Of Birth <span class="required">*</span></label>
-                                    <div class="col-sm-6"><input id="date-of-birth" class="date-picker form-control input-transparent" required="required" type="text" name="date-of-birth" value="" data-parsley-id="30"></div>
-                                </div>
-                            </fieldset>
-                            <fieldset>
-                                <legend class="section">Contact Info</legend>
-                                <div class="form-group">
-                                    <label id="email-label" for="email" class="control-label col-sm-4">Email <span class="required">*</span></label>
-                                    <div class="col-xs-12 col-sm-6">
-                                        <div class="input-group">
-                                            <input id="email" type="email" data-trigger="change" required="required" class="form-control input-transparent" name="email" data-parsley-id="32">
-                                                <span class="input-group-btn">
-                                                    <button class="btn btn-success" type="button">Write an email</button>
-                                                </span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="form-group">
-                                    <label for="phone" class="control-label col-sm-4">Phone <span class="required">*</span></label>
-                                    <div class="col-xs-12 col-sm-6">
-                                        <div class="input-group">
-                                            <input id="phone" class="form-control input-transparent  mask" required="required" type="text" name="phone" maxlength="28" data-parsley-id="34">
-                                            <span class="input-group-btn">
-                                                <select id="phone-type" class="selectpicker bs-select-hidden" data-style="btn-default" data-width="auto" data-parsley-id="36">
-                                                    <option>Mobile</option>
-                                                    <option>Home</option>
-                                                    <option>Work</option>
-                                                </select><div class="btn-group bootstrap-select" style="width: 82px;"><button type="button" class="btn dropdown-toggle btn-default" data-toggle="dropdown" data-id="phone-type" title="Mobile"><span class="filter-option pull-left">Mobile</span>&nbsp;<span class="caret"></span></button><div class="dropdown-menu open" style="min-width: 0px;"><ul class="dropdown-menu inner" role="menu"><li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Mobile</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="1"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Home</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Work</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div></div>
-                                            </span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="form-group">
-                                    <label for="fax" class="control-label col-sm-4">Fax</label>
-                                    <div class="col-xs-12 col-sm-6">
-                                        <div class="input-group">
-                                            <input id="fax" class="form-control input-transparent" type="text" name="phone" maxlength="28" data-parsley-id="38">
-                                            <span class="input-group-btn">
-                                                 <select id="fax-type" class="selectpicker bs-select-hidden" data-style="btn-default" data-width="auto" data-parsley-id="40">
-                                                     <option>Mobile</option>
-                                                     <option>Home</option>
-                                                     <option>Work</option>
-                                                 </select><div class="btn-group bootstrap-select" style="width: 82px;"><button type="button" class="btn dropdown-toggle btn-default" data-toggle="dropdown" data-id="fax-type" title="Mobile"><span class="filter-option pull-left">Mobile</span>&nbsp;<span class="caret"></span></button><div class="dropdown-menu open" style="min-width: 0px;"><ul class="dropdown-menu inner" role="menu"><li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Mobile</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="1"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Home</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Work</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div></div>
-                                            </span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </fieldset>
-                            <fieldset>
-                                <legend class="section">
-                                    Address
-                                    <button type="button" class="btn btn-transparent btn-xs pull-right">
-                                        <i class="fa fa-plus"></i>
-                                        Add Address
-                                    </button>
-                                </legend>
-                                <div class="form-group">
-                                    <label for="address" class="control-label col-sm-4">Address <span class="required">*</span></label>
-                                    <div class="col-xs-12 col-sm-6">
-                                        <div class="input-group">
-                                            <input id="address" class="form-control input-transparent" type="text" name="address" data-parsley-id="42">
-                                            <span class="input-group-btn">
-                                                 <select id="address-type" class="selectpicker bs-select-hidden" data-style="btn-default" data-width="auto" data-parsley-id="44">
-                                                     <option>Mobile</option>
-                                                     <option>Home</option>
-                                                     <option>Work</option>
-                                                 </select><div class="btn-group bootstrap-select" style="width: 82px;"><button type="button" class="btn dropdown-toggle btn-default" data-toggle="dropdown" data-id="address-type" title="Mobile"><span class="filter-option pull-left">Mobile</span>&nbsp;<span class="caret"></span></button><div class="dropdown-menu open" style="min-width: 0px;"><ul class="dropdown-menu inner" role="menu"><li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Mobile</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="1"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Home</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Work</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div></div>
-                                            </span>
-                                        </div>
-                                        <input id="address-2" class="form-control input-transparent mt-sm" type="text" value="" name="address-2" data-parsley-id="46">
-                                    </div>
-                                </div>
-                                <div class="form-group">
-                                    <label for="city" class="control-label col-sm-4">City <span class="required">*</span></label>
-                                    <div class="col-xs-12 col-sm-6"><input id="city" class="form-control input-transparent" required="required" type="text" value="" name="city" data-parsley-id="48"></div>
-                                </div>
-                                <div class="form-group">
-                                    <label for="city" class="control-label col-sm-4">State <span class="required">*</span></label>
-                                    <div class="col-xs-12 col-sm-6"><input id="city" class="form-control input-transparent" required="required" type="text" value="" name="city" data-parsley-id="48"></div>
-                                </div>
-                                
-                                
-                            </fieldset>
-                            <div class="form-actions">
-                                <div class="row">
-                                    <div class="col-sm-8 col-sm-offset-4">
-                                        <button type="submit" class="btn btn-primary">Validate &amp; Submit</button>
-                                        <button type="button" class="btn btn-default">Cancel</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </form>
+                            </section>
+                        </div>
                     </div>
-                </section>
-            </div>
-    </div>
                     <!-- END PAGE BAR -->
                     <!-- BEGIN PAGE TITLE-->
-                  
-            <!-- END QUICK SIDEBAR -->
-        
-        <!-- END CONTAINER -->
-        <!-- BEGIN FOOTER -->
-        <div class="page-footer">
-            <div class="page-footer-inner"> 2014 © Metronic by keenthemes.
-                <a href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes" title="Purchase Metronic just for 27$ and get lifetime updates for free" target="_blank">Purchase Metronic!</a>
-            </div>
-            <div class="scroll-to-top">
-                <i class="icon-arrow-up"></i>
-            </div>
-        </div>
-        <!-- END FOOTER -->
-        <!--[if lt IE 9]>
-<script src="/assets/global/plugins/respond.min.js"></script>
-<script src="/assets/global/plugins/excanvas.min.js"></script> 
-<![endif]-->
-        <!-- BEGIN CORE PLUGINS -->
-        <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/assets/global/plugins/jquery.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/js.cookie.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jquery.blockui.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/uniform/jquery.uniform.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js" type="text/javascript"></script>
-        <!-- END CORE PLUGINS -->
-        <!-- BEGIN PAGE LEVEL PLUGINS -->
-        <script src="/assets/global/plugins/moment.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/bootstrap-daterangepicker/daterangepicker.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/morris/morris.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/morris/raphael-min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/counterup/jquery.waypoints.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/counterup/jquery.counterup.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/amcharts/amcharts.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/amcharts/serial.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/amcharts/pie.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/amcharts/radar.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/amcharts/themes/light.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/amcharts/themes/patterns.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/amcharts/themes/chalk.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/ammap/ammap.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/ammap/maps/js/worldLow.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/amcharts/amstockcharts/amstock.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/fullcalendar/fullcalendar.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/flot/jquery.flot.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/flot/jquery.flot.resize.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/flot/jquery.flot.categories.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jquery-easypiechart/jquery.easypiechart.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jquery.sparkline.min.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jqvmap/jqvmap/jquery.vmap.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.russia.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.world.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.europe.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.germany.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.usa.js" type="text/javascript"></script>
-        <script src="/assets/global/plugins/jqvmap/jqvmap/data/jquery.vmap.sampledata.js" type="text/javascript"></script>
-        <!-- END PAGE LEVEL PLUGINS -->
-        <!-- BEGIN THEME GLOBAL SCRIPTS -->
-        <script src="/assets/global/scripts/app.min.js" type="text/javascript"></script>
-        <!-- END THEME GLOBAL SCRIPTS -->
-        <!-- BEGIN PAGE LEVEL SCRIPTS -->
-        <script src="/assets/global/plugins/select2/js/select2.full.min.js" type="text/javascript"></script>
-        <script src="/assets/pages/scripts/dashboard.min.js" type="text/javascript"></script>
-        <script src="/assets/pages/scripts/components-select2.min.js" type="text/javascript"></script>
-        <!-- END PAGE LEVEL SCRIPTS -->
-        <!-- BEGIN THEME LAYOUT SCRIPTS -->
-        <script src="/assets/layouts/layout/scripts/layout.min.js" type="text/javascript"></script>
-        <script src="/assets/layouts/layout/scripts/demo.min.js" type="text/javascript"></script>
-        <script src="/assets/layouts/global/scripts/quick-sidebar.min.js" type="text/javascript"></script>
-        <!-- END THEME LAYOUT SCRIPTS -->
-    <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-37564768-1', 'keenthemes.com');
-  ga('send', 'pageview');
-</script>
+
+                    <!-- END QUICK SIDEBAR -->
+
+                    <!-- END CONTAINER -->
+                    <!-- BEGIN FOOTER -->
+                    <div class="page-footer">
+                        <div class="page-footer-inner"> 2014 © Metronic by keenthemes.
+                            <a href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes" title="Purchase Metronic just for 27$ and get lifetime updates for free" target="_blank">Purchase Metronic!</a>
+                        </div>
+                        <div class="scroll-to-top">
+                            <i class="icon-arrow-up"></i>
+                        </div>
+                    </div>
+                    <!-- END FOOTER -->
+                    <!--[if lt IE 9]>
+            <script src="/assets/global/plugins/respond.min.js"></script>
+            <script src="/assets/global/plugins/excanvas.min.js"></script> 
+            <![endif]-->
+                    <!-- BEGIN CORE PLUGINS -->
+                    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/assets/global/plugins/jquery.min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/js.cookie.min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/jquery.blockui.min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/uniform/jquery.uniform.min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js" type="text/javascript"></script>
+                    <!-- END CORE PLUGINS -->
+                    <!-- BEGIN PAGE LEVEL PLUGINS -->
+                    <script src="/assets/global/plugins/moment.min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/bootstrap-daterangepicker/daterangepicker.min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/morris/morris.min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/morris/raphael-min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/counterup/jquery.waypoints.min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/counterup/jquery.counterup.min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/amcharts/amcharts/amcharts.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/amcharts/amcharts/serial.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/amcharts/amcharts/pie.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/amcharts/amcharts/radar.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/amcharts/amcharts/themes/light.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/amcharts/amcharts/themes/patterns.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/amcharts/amcharts/themes/chalk.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/amcharts/ammap/ammap.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/amcharts/ammap/maps/js/worldLow.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/amcharts/amstockcharts/amstock.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/fullcalendar/fullcalendar.min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/flot/jquery.flot.min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/flot/jquery.flot.resize.min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/flot/jquery.flot.categories.min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/jquery-easypiechart/jquery.easypiechart.min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/jquery.sparkline.min.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/jqvmap/jqvmap/jquery.vmap.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.russia.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.world.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.europe.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.germany.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.usa.js" type="text/javascript"></script>
+                    <script src="/assets/global/plugins/jqvmap/jqvmap/data/jquery.vmap.sampledata.js" type="text/javascript"></script>
+                    <!-- END PAGE LEVEL PLUGINS -->
+                    <!-- BEGIN THEME GLOBAL SCRIPTS -->
+                    <script src="/assets/global/scripts/app.min.js" type="text/javascript"></script>
+                    <!-- END THEME GLOBAL SCRIPTS -->
+                    <!-- BEGIN PAGE LEVEL SCRIPTS -->
+                    <script src="/assets/global/plugins/select2/js/select2.full.min.js" type="text/javascript"></script>
+                    <script src="/assets/pages/scripts/dashboard.min.js" type="text/javascript"></script>
+                    <script src="/assets/pages/scripts/components-select2.min.js" type="text/javascript"></script>
+                    <!-- END PAGE LEVEL SCRIPTS -->
+                    <!-- BEGIN THEME LAYOUT SCRIPTS -->
+                    <script src="/assets/layouts/layout/scripts/layout.min.js" type="text/javascript"></script>
+                    <script src="/assets/layouts/layout/scripts/demo.min.js" type="text/javascript"></script>
+                    <script src="/assets/layouts/global/scripts/quick-sidebar.min.js" type="text/javascript"></script>
+                    <!-- END THEME LAYOUT SCRIPTS -->
+                    <script>
+                        (function (i, s, o, g, r, a, m) {
+                            i['GoogleAnalyticsObject'] = r;
+                            i[r] = i[r] || function () {
+                                (i[r].q = i[r].q || []).push(arguments)
+                            }, i[r].l = 1 * new Date();
+                            a = s.createElement(o),
+                                    m = s.getElementsByTagName(o)[0];
+                            a.async = 1;
+                            a.src = g;
+                            m.parentNode.insertBefore(a, m)
+                        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                        ga('create', 'UA-37564768-1', 'keenthemes.com');
+                        ga('send', 'pageview');
+                    </script>
 
 
 
-<div class="jqvmap-label"></div><div class="jqvmap-label"></div><div class="jqvmap-label"></div><div class="jqvmap-label"></div><div class="jqvmap-label"></div><div class="daterangepicker dropdown-menu opensleft"><div class="calendar left"><div class="daterangepicker_input"><input class="input-mini" type="text" name="daterangepicker_start" value=""><i class="fa fa-calendar"></i><div class="calendar-time" style="display: none;"><div></div><i class="fa fa-clock-o"></i></div></div><div class="calendar-table"></div></div><div class="calendar right"><div class="daterangepicker_input"><input class="input-mini" type="text" name="daterangepicker_end" value=""><i class="fa fa-calendar"></i><div class="calendar-time" style="display: none;"><div></div><i class="fa fa-clock-o"></i></div></div><div class="calendar-table"></div></div><div class="ranges"><ul><li>Today</li><li>Yesterday</li><li>Last 7 Days</li><li>Last 30 Days</li><li>This Month</li><li>Last Month</li><li>Custom</li></ul><div class="range_inputs"><button class="applyBtn btn btn-sm btn-success" disabled="disabled" type="button">Apply</button> <button class="cancelBtn btn btn-sm btn-default" type="button">Cancel</button></div></div></div></body></html>
+                    <div class="jqvmap-label"></div><div class="jqvmap-label"></div><div class="jqvmap-label"></div><div class="jqvmap-label"></div><div class="jqvmap-label"></div><div class="daterangepicker dropdown-menu opensleft"><div class="calendar left"><div class="daterangepicker_input"><input class="input-mini" type="text" name="daterangepicker_start" value=""><i class="fa fa-calendar"></i><div class="calendar-time" style="display: none;"><div></div><i class="fa fa-clock-o"></i></div></div><div class="calendar-table"></div></div><div class="calendar right"><div class="daterangepicker_input"><input class="input-mini" type="text" name="daterangepicker_end" value=""><i class="fa fa-calendar"></i><div class="calendar-time" style="display: none;"><div></div><i class="fa fa-clock-o"></i></div></div><div class="calendar-table"></div></div><div class="ranges"><ul><li>Today</li><li>Yesterday</li><li>Last 7 Days</li><li>Last 30 Days</li><li>This Month</li><li>Last Month</li><li>Custom</li></ul><div class="range_inputs"><button class="applyBtn btn btn-sm btn-success" disabled="disabled" type="button">Apply</button> <button class="cancelBtn btn btn-sm btn-default" type="button">Cancel</button></div></div></div></body></html>
